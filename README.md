@@ -81,12 +81,12 @@ This study states the primary task of a scanning-guide algorithm, which is to se
 If you find our work useful in your research, please consider citing our paper:
 
 ```
-@InProceedings{,
-    author    = {},
-    title     = {},
-    booktitle = {},
-    month     = {},
-    year      = {2022},
-    pages     = {}
+@inproceedings{lee2022usg,
+  title={USG-Net: Deep Learning-based Ultrasound Scanning-Guide for an Orthopedic Sonographer},
+  author={Lee, Kyungsu and Yang, Jaeseung and Lee, Moon Hwan and Chang, Jin Ho and Kim, Jun-Young and Hwang, Jae Youn},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={23--32},
+  year={2022},
+  organization={Springer}
 }
 ```
